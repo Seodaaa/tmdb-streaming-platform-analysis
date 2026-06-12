@@ -112,22 +112,6 @@ Finally, because Disney+ had significantly fewer usable observations and many mi
 
 ---
 
-## Use of LLMs / ChatGPT
-
-ChatGPT was used throughout the project as a development and brainstorming assistant. Specific uses included:
-
-* brainstorming project ideas
-* identifying potential data sources
-* generating Python scripts for TMDB API data collection
-* assisting with Tableau calculations and debugging
-* helping structure dashboard layouts and storytelling
-* generating dashboard design mockups and presentation ideas
-* improving written explanations and documentation
-
-While ChatGPT assisted with technical support and ideation, all final analytical decisions, interpretations, and conclusions were reviewed and validated by the project team.
-
----
-
 ## Key Findings
 
 * Streaming platforms differentiate themselves through combinations of exclusivity, genre emphasis, popularity, and perceived quality rather than competing identically.
@@ -153,7 +137,4 @@ While ChatGPT assisted with technical support and ideation, all final analytical
 ## Authors
 
 * Kenyee Liu
-* Skye Huang
-
-
-
+* Jingyi (Skye) Huang
